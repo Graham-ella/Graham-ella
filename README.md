@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Graham-ella&count_private=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Graham-ella&count_private=true&theme=graywhite)"/>
+</p>
