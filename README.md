@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Graham-ella&layout=compact&theme=nord&locale=cn&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Graham-ella&layout=compact&theme=nord&locale=cn&hide_border=true&exclude_repo=CSAPP2021Spring" />
 </p>
 
 🌱 Currently learning:
